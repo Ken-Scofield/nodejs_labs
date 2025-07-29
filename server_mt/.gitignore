@@ -141,5 +141,3 @@ vite.config.ts.timestamp-*
 
 # Idea
 .idea
-
-# server_mt/.gitignore
